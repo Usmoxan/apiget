@@ -1,6 +1,6 @@
 # apiget
 
-A new Flutter project.
+Get API in flutter 
 
 ## Getting Started
 
